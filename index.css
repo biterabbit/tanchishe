@@ -1,0 +1,21 @@
+.map {
+  height: 600px;
+  width: 800px;
+  background: #ddd;
+  position: relative;
+  display: inline-block
+}
+
+.board {
+  text-align: center;
+  height: 150px;
+  width: 200px;
+  background-color: #ccc;
+  display: inline-block;
+  vertical-align: top;
+}
+.btn{
+  height: 50px;
+  width: 100px;
+
+}
